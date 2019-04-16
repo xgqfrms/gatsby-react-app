@@ -39,3 +39,17 @@ $ gatsby new --help
 
 
 ![](https://img2018.cnblogs.com/blog/740516/201904/740516-20190417001032232-1539914906.png)
+
+
+## auto open
+
+```sh
+
+$ open http://localhost:8000/
+$ open http://localhost:8000/___graphql
+
+# or
+$ open http://localhost:8000/ && open http://localhost:8000/___graphql
+
+
+```
