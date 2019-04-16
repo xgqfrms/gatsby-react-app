@@ -1,2 +1,10 @@
-# gatsby-react-app
-gatsby-react-app
+# Gatsby React App
+
+> gatsby-react-app
+
+## install
+
+```sh
+$ npm i -g gatsby
+
+```
