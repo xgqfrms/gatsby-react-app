@@ -1,3 +1,57 @@
+
+
+
+
+
+
+
+
+
+# demo
+
+
+> dev
+
+```sh
+# bash
+$ gatsby develop
+$ open http://localhost:8000/ && open http://localhost:8000/___graphql
+
+# npm script
+$ open http://localhost:8000/ && open http://localhost:8000/___graphql && gatsby develop
+
+```
+
+> prod
+
+```sh
+
+$ gatsby build
+$ gatsby serve
+
+# auto open browser
+$ open http://localhost:9000/
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
